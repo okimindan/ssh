@@ -4,5 +4,5 @@ openssh-serverをインストール
 
  ```
  systemctl status sshd.service
- 
- 
+ ```
+ aa
